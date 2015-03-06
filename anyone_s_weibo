@@ -1,0 +1,7 @@
+<?php
+
+function anyone_s_weibo_menu() {
+  $items = array(
+  );
+  return $items;
+}
